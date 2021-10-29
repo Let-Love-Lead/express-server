@@ -18,6 +18,6 @@ jobs:
     - uses: akhileshns/heroku-deploy@v3.12.12
       with:
       heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-      heroku_app_name: "YOUR APP'S NAME"
-      heroku_email: ""
+      heroku_app_name: "cryptic-scrubland-76329"
+      heroku_email: "dzahyaw@gmail.com"
    
