@@ -6,7 +6,7 @@ const port = process.env.PORT || 8000;
 
 const books = [
     {
-        title: "James Walker",
+        title: "Dzah Walker",
         author: "James Dzah",
         ISBN: "0-7475-3269-9"
     },
